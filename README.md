@@ -43,3 +43,5 @@ Rust 通过在编译时进行**泛型**代码的 单态化（monomorphization）
 使用Rust编写一个LinkList， 要求所有的节点需要分配在堆上，需要实现pop、push方法
 
 使用Rust编写双链双端队列以及对应的方法
+
+* Day 4 (2020-06-30)
