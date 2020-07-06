@@ -3,8 +3,9 @@ OS Tutorial Summer of Code 2020
 Day 0~30
 * Day 0
 
-下载rustup工具，安装RLS
-配置环境
+下载rustup工具，安装VScode，搭建开发环境
+源于某天反复安装rustup-init（反复retry失败）直到凌晨三点后成功，发现半夜网速比较快，经查阅网上资料发现有据可依，为了摆脱之前在notepad里面写代码的尴尬局面，遂于凌晨一点起床开始漫漫配环境之路，在2：46时网速起飞成功完成√
+
 * Day 1 (2020-06-27)
 
 **学习Rust基础知识**
