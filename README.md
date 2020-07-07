@@ -56,4 +56,11 @@ Rust 通过在编译时进行**泛型**代码的 单态化（monomorphization）
 
 * Day 5 (2020-07-05)
 
+一边改造环境，一边继续学习基础知识
+
 * Day 6 (2020-07-06)
+
+rustlings done
+`*Variable bindings 1-4
+*Functions 1-5
+*Primitive types 1-6`
