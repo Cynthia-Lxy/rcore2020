@@ -60,7 +60,9 @@ Rust 通过在编译时进行**泛型**代码的 单态化（monomorphization）
 
 * Day 6 (2020-07-06)
 
-Rustlings Done
+**Rustlings Done**
 `*Variable bindings 1-4`
+
 `*Functions 1-5`
+
 `*Primitive types 1-6`
