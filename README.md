@@ -3,7 +3,7 @@ OS Tutorial Summer of Code 2020
 Day 0~30
 * Day 0
 
-**下载rustup工具，安装VScode，搭建win10下的开发环境**
+**下载rustup工具，安装VScode，使用插件rust-analyzer，搭建win10下的开发环境**
 
 `基于配置中科大镜像源和使用vpn`
 
