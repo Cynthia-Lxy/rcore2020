@@ -1,7 +1,7 @@
 # rcore 2020
 OS Tutorial Summer of Code 2020
 Day 0~30
-* Day 0
+* Day 0  工欲善其事 必先利其器
 
 **下载rustup工具，安装VScode，使用插件rust-analyzer，搭建win10下的开发环境**
 
